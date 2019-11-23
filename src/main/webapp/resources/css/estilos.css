@@ -1,0 +1,94 @@
+h4 {
+	color: MediumBlue;
+	border-bottom: 1px solid MediumBlue;
+}
+
+.navbar-text {
+	display: flex!important;
+	align-items: center!important;
+}
+.rightpad {
+	padding-right: 30px;
+}
+
+.input-group {
+	margin: 20px 0;
+}
+
+.input-group div {
+	width: 35%;
+}
+
+.input-group div label {
+	width: 100%;
+}
+
+.mainimg {
+	position: relative;
+}
+
+.mainimg img {
+	width: 100%;
+}
+
+.mainimg h1 {
+	position: absolute;
+	top: 25%;
+	color: white;
+	font-size: 5em;
+	background:rgba(0,0,0,0.5);
+	padding-left: 20px;
+}
+
+.col-5, .col-10 {
+	margin: 10px auto;
+}
+
+.col-5 p, .col-10 p {
+	text-align: justify;
+}
+
+.margup {
+	margin-top: 40px;
+}
+
+.margup a {
+	display: block;
+	margin: auto 30px;
+}
+.mid-50 {
+	width: 50%;
+	margin: 120px auto;
+	
+	border-radius: 15px;
+	box-shadow: 2px 1px 1px rgba(0,0,0,0.5);
+	padding: 25px;
+}
+
+.mid-50 h3 {
+	border-bottom: 1px solid MediumBlue;
+}
+
+.center {
+	text-align: center;
+}
+
+.todo-c {
+	display: flex;
+	flex-direction: column;
+	padding-top: 50px;
+}
+
+.todo-c .display-1, .todo-c h1, .todo-c h3 {
+	text-align: center;
+	margin: 30px auto;
+}
+
+.btt-spread {
+	display: flex;
+	justify-content: space-around;
+}
+
+.btt-spread a, .btt-spread button {
+	width: 130px;
+}
